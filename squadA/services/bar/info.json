@@ -1,0 +1,5 @@
+{
+    "description": "This is a bar service",
+    "version": "1.0.0",
+    "name": "bar"
+}
