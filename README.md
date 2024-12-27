@@ -1,5 +1,5 @@
 # Gitdis Example Repository
-This is an example repository for the (Gitdis)[https://github.com/lowcarboncode/gitdis] project.
+This is an example repository for the [Gitdis](https://github.com/lowcarboncode/gitdis) project.
 
 ## File Structure
 ```
