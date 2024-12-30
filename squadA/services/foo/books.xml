@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <id>1</id>
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <year_published>1932</year_published>
+    <price>25.90</price>
+  </book>
+  <book>
+    <id>2</id>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year_published>1949</year_published>
+    <price>34.90</price>
+  </book>
+  <book>
+    <id>3</id>
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <year_published>1954</year_published>
+    <price>79.90</price>
+  </book>
+</bookstore>
