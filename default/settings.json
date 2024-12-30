@@ -1,0 +1,6 @@
+{
+    "services": {
+        "foo": true,
+        "bar": false
+    }
+}
