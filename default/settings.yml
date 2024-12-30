@@ -1,3 +1,4 @@
 services:
   foo: true
-  bar: false
+  bar: 123
+  bax: hello
