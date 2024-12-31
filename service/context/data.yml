@@ -1,7 +1,7 @@
 serviceName: service1
 servicePort: 8080
 serviceHost: localhost
-resources
+resources:
   - name: resource1
     tags:
       - r1.1
